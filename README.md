@@ -328,10 +328,12 @@ systemctl is-enabled php-fpm8.4
 
 Durante el desarrollo del proyecto se logró implementar correctamente un servidor NGINX compilado desde código fuente junto con PHP-FPM utilizando comunicación FastCGI mediante socket UNIX. También se configuraron servicios administrados mediante SystemD para garantizar el arranque automático del servidor y se verificó el correcto funcionamiento mediante pruebas realizadas con el archivo `phpinfo.php`. Este proyecto permitió comprender el proceso de compilación manual de servicios web, la administración de procesos y la integración de tecnologías en sistemas Linux.
 
-#REFERENCIAS
+##REFERENCIAS
 ```NGINX. (2026). NGINX Documentation. https://nginx.org/
-PHP Group. (2026). PHP Documentation. https://www.php.net/docs.php
-AlmaLinux OS Foundation. (2026). AlmaLinux Documentation. https://wiki.almalinux.org/
+```
+```PHP Group. (2026). PHP Documentation. https://www.php.net/docs.php
+```
+```AlmaLinux OS Foundation. (2026). AlmaLinux Documentation. https://wiki.almalinux.org/
 ```
 
 
