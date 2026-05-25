@@ -330,7 +330,8 @@ Durante el desarrollo del proyecto se logró implementar correctamente un servid
 
 #REFERENCIAS
 ```NGINX. (2026). NGINX Documentation. https://nginx.org/
-```PHP Group. (2026). PHP Documentation. https://www.php.net/docs.php
-```AlmaLinux OS Foundation. (2026). AlmaLinux Documentation. https://wiki.almalinux.org/
+PHP Group. (2026). PHP Documentation. https://www.php.net/docs.php
+AlmaLinux OS Foundation. (2026). AlmaLinux Documentation. https://wiki.almalinux.org/
+```
 
 
