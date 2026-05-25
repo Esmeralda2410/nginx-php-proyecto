@@ -319,14 +319,6 @@ Verificación de autoarranque:
 systemctl is-enabled nginx
 systemctl is-enabled php-fpm8.4
 ```
-------------------------------------------------------------------------------------------------------------------
-
-# Repositorio Git
-
-Repositorio del proyecto:
-
-https://github.com/TUUSUARIO/nginx-php-proyecto
-
 
 ------------------------------------------------------------------------------------------------------------------
 
